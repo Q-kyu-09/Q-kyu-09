@@ -2,4 +2,4 @@
 Please call me Q.
 I want to create interesting games and useful apps.⚡⚡⚡
 
-![Good Bye](image/Good Bye!.png)
+<img src="image/Good Bye!.png" alt="GoodBye!">
